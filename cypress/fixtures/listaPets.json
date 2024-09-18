@@ -1,0 +1,35 @@
+[
+  {
+    "id": 297537602,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Catatau",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 2,
+        "name": "vaccine"
+      }
+    ],
+    "status": "available"
+  },
+
+  {
+    "id": 297537603,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Thor",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 2,
+        "name": "vaccine"
+      }
+    ],
+    "status": "available"
+  }
+]  
